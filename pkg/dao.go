@@ -1,4 +1,4 @@
-package tq
+package histogram
 
 import (
 	"database/sql"
